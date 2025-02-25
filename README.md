@@ -10,9 +10,6 @@ Soy una apasionada del desarrollo de software con experiencia en varios lenguaje
 - 🎮 En mi tiempo libre, disfruto de los videojuegos y de la lectura.
 ## 📊 Estadísticas de GitHub
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=carlaalma&layout=compact&theme=radical)
-## 🎉 Let's Connect!
-- 🌐 [LinkedIn](https://linkedin.com/in/carlaalma)
-- 📧 [Email](mailto:carlalma@outlook.es)
 ---
 > *"El mejor camino para predecir el futuro es crearlo."* – Peter Drucker
 
