@@ -8,7 +8,10 @@ Soy una apasionada del desarrollo de software con experiencia en varios lenguaje
 - 🎨 Me encanta combinar creatividad y código para crear cosas únicas.
 - 📖 Aprender algo nuevo cada día es mi lema.
 - 🎮 En mi tiempo libre, disfruto de los videojuegos y de la lectura.
-## 📊 Estadísticas de GitHub
+- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlaalma&layout=compact&theme=radical" alt="Lenguajes más usados"/>
+</p>
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=carlaalma&layout=compact&theme=radical)
 ---
 > *"El mejor camino para predecir el futuro es crearlo."* – Peter Drucker
