@@ -4,7 +4,7 @@ Soy una apasionada del desarrollo de software con experiencia en varios lenguaje
 - 🌟 **Lenguajes que domino:** Java, C, HTML, CSS, JavaScript
 - 📚 **Aprendiendo actualmente:** Python, C++, Flutter
 - 🛠️ **Herramientas:** Git, VS Code, IntelliJ IDEA
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2pudGdueWQzcmUyb2lhY2txdGx2amo2YXY4dmk4eXlqN2diM2VsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R8c0QXyT9IKpfRjzI4/giphy.gif" width="40" height="40" /> Un poco más sobre mí
+## 🌱 Un poco más sobre mí
 - 🎨 Me encanta combinar creatividad y código para crear cosas únicas.
 - 📖 Aprender algo nuevo cada día es mi lema.
 - 🎮 En mi tiempo libre, disfruto de los videojuegos y de la lectura.
