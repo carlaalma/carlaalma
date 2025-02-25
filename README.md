@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Carla! ![titulo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzM0NzFvamNoeWJzM25mbzZ2NDNsd3lrZWY5cG96NGI1dTBqcHFpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ObNTw8Uzwy6KQ/giphy.gif)
+# 👋 ¡Hola, soy Carla! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzM0NzFvamNoeWJzM25mbzZ2NDNsd3lrZWY5cG96NGI1dTBqcHFpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ObNTw8Uzwy6KQ/giphy.gif" width="80" height="80" />
 Soy una apasionada del desarrollo de software con experiencia en varios lenguajes y tecnologías. Siempre estoy explorando nuevas herramientas y ampliando mis habilidades. 🚀
 ## 💻 Tecnologías y Herramientas
 - 🌟 **Lenguajes que domino:** Java, C, HTML, CSS, JavaScript
