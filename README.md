@@ -18,19 +18,12 @@ Soy una apasionada del desarrollo de software con experiencia en varios lenguaje
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=carlaalma&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=carlaalma&layout=compact&theme=radical)
-
-## 🚀 Proyectos Destacados
-
-- 🌐 [Nombre del Proyecto 1](#)
-- 📱 [Nombre del Proyecto 2](#)
 
 ## 🎉 Let's Connect!
 
-- 🌐 [LinkedIn](https://linkedin.com/in/tuusuario)
-- 🐦 [Twitter](https://twitter.com/tuusuario)
-- 📧 [Email](mailto:tuemail@gmail.com)
+- 🌐 [LinkedIn](https://linkedin.com/in/carlaalma)
+- 📧 [Email](mailto:carlalma@outlook.es)
 
 ---
 
