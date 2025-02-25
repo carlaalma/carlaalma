@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy [Tu Nombre]!
+# 👋 ¡Hola, soy Carla!
 
 ![Banner GitHub](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -18,8 +18,8 @@ Soy una apasionada del desarrollo de software con experiencia en varios lenguaje
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=carlaalma&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=carlaalma&layout=compact&theme=radical)
 
 ## 🚀 Proyectos Destacados
 
